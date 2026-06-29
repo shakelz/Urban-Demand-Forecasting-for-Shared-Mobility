@@ -45,9 +45,44 @@ The experiments use the publicly available UCI Bike Sharing Dataset.
 
 https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 
-## Citation
+## How to Run
 
-If you use this repository, please cite the associated journal paper.
+1. Clone the repository:
+
+```bash
+git clone https://github.com/shakelz/Urban-Demand-Forecasting-for-Shared-Mobility.git
+cd Urban-Demand-Forecasting-for-Shared-Mobility
+```
+
+2. Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+4. Run the notebook:
+   UDF CODE.ipynb
+
+```text
+
+
+5. Outputs will be saved in:
+
+```text
+Outputs/Figures/
+Outputs/Tables/
+
+```
+
+## Reproducing the Paper Results
+
+To reproduce the full set of results, run all notebooks from top to bottom without skipping cells. The notebooks generate the figures, tables, metrics, and prediction results reported in the manuscript.
 
 ## License
 
