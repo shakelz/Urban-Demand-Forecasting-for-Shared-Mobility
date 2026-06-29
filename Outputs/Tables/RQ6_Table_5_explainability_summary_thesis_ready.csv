@@ -1,0 +1,5 @@
+Finding Area,Result,Thesis-Safe Interpretation
+Dominant predictors,Historical lag features dominate permutation importance.,The model primarily learns short-term and recurring demand memory.
+Contextual modalities,Calendar/temporal variables contribute more than weather and proxy neighborhood variables.,Contextual signals provide secondary explanatory value beyond historical demand.
+Weather sensitivity,Adverse-weather counterfactual reduces predicted demand; temperature increase raises demand.,Weather features support operational interpretation of demand variation.
+Neighborhood interpretation,Proxy neighborhood effects are smaller than historical and temporal effects.,Neighborhood findings should be interpreted cautiously because UCI lacks real station-level POI/land-use data.

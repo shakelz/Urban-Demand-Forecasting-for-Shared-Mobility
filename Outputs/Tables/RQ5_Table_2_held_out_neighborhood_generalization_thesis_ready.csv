@@ -1,0 +1,7 @@
+Held-Out Group,Train Samples Used,Test Samples Used,Temporal RMSE,Proposed RMSE,Proposed WAPE (%),Transfer Gain (%),Best Transfer Model,Thesis Interpretation
+CBD,4500,1473,171.65344362505212,170.60918848039395,42.10544744003418,0.6083508274573746,Proposed Cross-Modal,Improves transfer
+Mixed-use,4500,1500,45.10120209930106,48.93477766621279,24.83452035814619,-8.499940995777,Temporal Baseline,No transfer gain / temporal baseline stronger
+Residential,4500,1500,145.526189064042,147.81700033584465,25.205162851380752,-1.5741573984176755,Temporal Baseline,No transfer gain / temporal baseline stronger
+Tourist,4500,1240,79.91149024553177,78.18561586680886,15.159020827961262,2.1597324407272094,Proposed Cross-Modal,Improves transfer
+Transit Hub,4500,718,36.90370650955906,36.55080463453342,39.16005783251596,0.9562775894195427,Proposed Cross-Modal,Improves transfer
+University,4500,1500,112.73630653556475,115.25951298882566,41.46444750774095,-2.238148943120234,Temporal Baseline,No transfer gain / temporal baseline stronger

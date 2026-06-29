@@ -1,0 +1,8 @@
+Rebalancing Strength,Operational Cost/Day (€),Service Level (%),Stockout Rate (%),Unserved Demand Rate (%),Interpretation
+0.0,0.0,69.67635306976327,36.712169619517866,30.323646930236723,Higher strength uses forecasts more aggressively; evaluate service-cost trade-off.
+0.05,76.57627220346902,71.6387176703136,36.24745861167587,28.361282329686407,Higher strength uses forecasts more aggressively; evaluate service-cost trade-off.
+0.1,150.66038954163653,73.5578119180686,35.69561428986349,26.44218808193141,Higher strength uses forecasts more aggressively; evaluate service-cost trade-off.
+0.2,219.70290905386997,75.81076427756437,33.86581469648562,24.18923572243563,Higher strength uses forecasts more aggressively; evaluate service-cost trade-off.
+0.35,283.45461551302003,77.00752686091994,31.193726401394134,22.992473139080072,Higher strength uses forecasts more aggressively; evaluate service-cost trade-off.
+0.5,342.7232711846854,77.26877341124671,28.173104850421144,22.73122658875328,Higher strength uses forecasts more aggressively; evaluate service-cost trade-off.
+0.75,435.91058796470026,77.2741874970689,27.96979378449027,22.725812502931106,Higher strength uses forecasts more aggressively; evaluate service-cost trade-off.

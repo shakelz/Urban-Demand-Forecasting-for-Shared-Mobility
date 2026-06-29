@@ -1,0 +1,5 @@
+Method,Stockout Rate (%),Overflow Rate (%),Unserved Demand Rate (%),Rebalancing Cost/Day (€),Service Level (%),Average Planned Inventory,Thesis Interpretation,Service Gain vs Reactive (pp),Stockout Reduction vs Reactive (pp)
+Reactive policy,37.08974731338949,0.0,31.49577627444544,0.0,68.50422372555457,250.55443048697842,No proactive rebalancing baseline.,0.0,0.0
+Temporal Only forecast-guided,28.02788266047052,0.0,22.72630676908319,550.9637088486143,77.2736932309168,222.30948572023178,Forecast-guided operational policy; compare service gain against cost.,8.769469505362238,9.061864652918967
+Temporal + Weather forecast-guided,28.02788266047052,0.0,22.727387792371,549.5729808983198,77.272612207629,222.40968247638807,Forecast-guided operational policy; compare service gain against cost.,8.768388482074428,9.061864652918967
+Full Cross-Modal Fusion forecast-guided,27.998838222480394,0.0,22.725878052356776,548.5894544139519,77.27412194764322,222.35974560094843,Forecast-guided operational policy; compare service gain against cost.,8.769898222088656,9.090909090909093

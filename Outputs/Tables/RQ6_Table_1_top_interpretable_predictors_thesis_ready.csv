@@ -1,0 +1,21 @@
+Feature,Feature Label,Modality,Importance,Std,Importance Share (%),Thesis Interpretation
+lag_1,Demand 1 hour ago,Historical Demand,114.69363595245399,1.8099595259611754,55.5122904403532,Recent or repeated demand history is a primary driver of the forecast.
+lag_24,Demand 24 hours ago,Historical Demand,27.609393430791993,1.5940157271211535,13.36308378650988,Recent or repeated demand history is a primary driver of the forecast.
+diff_1,1-hour demand change,Historical Demand,22.922810255614873,1.1641995674961565,11.094754212398595,Recent or repeated demand history is a primary driver of the forecast.
+lag_168,Demand 1 week ago,Historical Demand,6.733394898127442,0.7259885098711636,3.2589966315951067,Recent or repeated demand history is a primary driver of the forecast.
+diff_24,24-hour demand change,Historical Demand,6.639691441214786,0.49629568766686666,3.2136436922432075,Recent or repeated demand history is a primary driver of the forecast.
+hr_cos,Hour cycle cosine,Calendar/Temporal,6.606533531955909,0.507061743133157,3.1975950991901745,Temporal routine or calendar structure contributes to demand variation.
+hr,Hour of day,Calendar/Temporal,3.809095399819301,0.107913783195519,1.8436211250416643,Temporal routine or calendar structure contributes to demand variation.
+tourism_poi_density,Tourism POI intensity,Neighborhood,2.1071795558312325,0.23025640955170187,1.019885388948427,Proxy neighborhood context contributes to spatial interpretation.
+is_commute,Commute-period indicator,Calendar/Temporal,1.7597010780960798,0.2079128198082672,0.8517040769024653,Temporal routine or calendar structure contributes to demand variation.
+hr_sin,Hour cycle sine,Calendar/Temporal,1.6263492386152865,0.19067397568447,0.7871611231235658,Temporal routine or calendar structure contributes to demand variation.
+lag_12,Demand 12 hours ago,Historical Demand,1.3521734500802134,0.0928314719193366,0.6544586773559444,Recent or repeated demand history is a primary driver of the forecast.
+weathersit,Weather condition,Weather,1.202587598422048,0.15682627022597503,0.5820583809135331,Weather context has a smaller but operationally meaningful effect.
+roll_std_3,3-hour volatility,Historical Demand,1.0200540821429982,0.08287938557394792,0.49371125086891493,Recent or repeated demand history is a primary driver of the forecast.
+roll_std_6,6-hour volatility,Historical Demand,0.9065118989509335,0.20747393856416027,0.4387562692934544,Recent or repeated demand history is a primary driver of the forecast.
+lag_3,Demand 3 hours ago,Historical Demand,0.7536060541341202,0.04644069776337088,0.3647490796441764,Recent or repeated demand history is a primary driver of the forecast.
+atemp,Feels-like temperature,Weather,0.7415525323508884,0.10858073460241847,0.3589151151307724,Weather context has a smaller but operationally meaningful effect.
+temp,Temperature,Weather,0.6639836342582603,0.09320226850408961,0.3213713825226164,Weather context has a smaller but operationally meaningful effect.
+lag_6,Demand 6 hours ago,Historical Demand,0.6477054899587235,0.09776102083815556,0.3134926796924047,Recent or repeated demand history is a primary driver of the forecast.
+hum,Humidity,Weather,0.6418853520347158,0.09501174842432562,0.31067570398004374,Weather context has a smaller but operationally meaningful effect.
+roll_mean_3,3-hour rolling mean,Historical Demand,0.6259511441408299,0.0739161275579776,0.30296346808136626,Recent or repeated demand history is a primary driver of the forecast.

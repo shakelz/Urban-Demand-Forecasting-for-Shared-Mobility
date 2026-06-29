@@ -1,0 +1,22 @@
+Station ID,Neighborhood Type,Sample Count,Residential,Commercial,Office,Education,Tourism POI,Transit Access,Average Demand,Avg AM Peak Demand,Weekend Uplift (%),AM Peak Availability,Weekend Uplift Availability,Embedding Dimension 1,Embedding Dimension 2,Cluster Label
+S01,CBD,491,0.2,0.85,0.95,0.15,0.25,0.9,292.7067,292.7067,Insufficient samples,Available,Insufficient samples,4.249,0.9382,C1
+S02,CBD,982,0.2,0.85,0.95,0.15,0.25,0.9,361.3768,361.3768,Insufficient samples,Available,Insufficient samples,4.5399,1.5661,C1
+S10,Mixed-use,2620,0.5,0.55,0.5,0.45,0.45,0.65,32.0328,Insufficient samples,250.3551,Insufficient samples,Available,-0.8219,-1.5033,C0
+S11,Mixed-use,2171,0.5,0.55,0.5,0.45,0.45,0.65,36.5233,45.5446,-57.5749,Available,Available,-1.0593,-1.0537,C0
+S12,Mixed-use,655,0.5,0.55,0.5,0.45,0.45,0.65,174.4992,143.9608,2.6278,Available,Available,-0.6656,-0.0849,C0
+S13,Mixed-use,443,0.5,0.55,0.5,0.45,0.45,0.65,317.6005,Insufficient samples,47.9342,Insufficient samples,Available,-0.9173,0.3715,C0
+S14,Mixed-use,425,0.5,0.55,0.5,0.45,0.45,0.65,239.4847,Insufficient samples,23.6964,Insufficient samples,Available,-0.8822,0.0309,C0
+S15,Mixed-use,2539,0.5,0.55,0.5,0.45,0.45,0.65,158.5238,Insufficient samples,-29.6557,Insufficient samples,Available,-0.8426,-0.2611,C0
+S24,Residential,1974,0.9,0.25,0.3,0.2,0.15,0.45,417.5922,Insufficient samples,Insufficient samples,Insufficient samples,Insufficient samples,-3.6227,0.2331,C4
+S32,Tourist,226,0.25,0.55,0.4,0.25,0.95,0.65,350.0752,Insufficient samples,10.7155,Insufficient samples,Available,-0.6265,2.1481,C2
+S33,Tourist,452,0.25,0.55,0.4,0.25,0.95,0.65,429.0088,Insufficient samples,12.8494,Insufficient samples,Available,-0.6595,2.5407,C2
+S34,Tourist,450,0.25,0.55,0.4,0.25,0.95,0.65,370.2689,Insufficient samples,-1.1896,Insufficient samples,Available,-0.6335,2.2755,C2
+S35,Tourist,112,0.25,0.55,0.4,0.25,0.95,0.65,236.25,Insufficient samples,-20.2241,Insufficient samples,Available,-0.5759,1.6423,C2
+S40,Transit Hub,216,0.35,0.65,0.55,0.2,0.35,1.0,16.7083,Insufficient samples,290.8458,Insufficient samples,Available,1.2635,-2.1284,C3
+S41,Transit Hub,174,0.35,0.65,0.55,0.2,0.35,1.0,24.9425,20.125,-64.0855,Available,Available,0.9116,-1.6628,C3
+S42,Transit Hub,35,0.35,0.65,0.55,0.2,0.35,1.0,66.4286,63.4167,-57.9528,Available,Available,1.0951,-1.2893,C3
+S43,Transit Hub,21,0.35,0.65,0.55,0.2,0.35,1.0,120.0952,Insufficient samples,-54.4008,Insufficient samples,Available,1.2597,-0.8613,C3
+S44,Transit Hub,39,0.35,0.65,0.55,0.2,0.35,1.0,135.641,Insufficient samples,-18.9148,Insufficient samples,Available,1.2493,-0.8598,C3
+S45,Transit Hub,233,0.35,0.65,0.55,0.2,0.35,1.0,84.03,Insufficient samples,-19.8973,Insufficient samples,Available,1.2708,-1.1174,C3
+S52,University,982,0.35,0.45,0.3,0.95,0.3,0.6,147.7525,Insufficient samples,Insufficient samples,Insufficient samples,Insufficient samples,-2.2556,-0.5869,C0
+S53,University,1971,0.35,0.45,0.3,0.95,0.3,0.6,197.3227,Insufficient samples,Insufficient samples,Insufficient samples,Insufficient samples,-2.2761,-0.3374,C0

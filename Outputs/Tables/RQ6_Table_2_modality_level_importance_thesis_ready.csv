@@ -1,0 +1,5 @@
+Modality,Importance,Importance Share (%),Thesis Interpretation
+Historical Demand,185.14851308755513,89.61280151042233,Dominant explanation source; the model relies mainly on recent and recurring demand.
+Calendar/Temporal,14.843113668962669,7.18414086525437,"Secondary explanation source capturing routines such as hour, weekday, commute, and holidays."
+Weather,3.2500091170659124,1.5730205825469663,Contextual explanation source capturing environmental sensitivity.
+Neighborhood,3.3678105078260057,1.6300370417763408,Proxy spatial explanation source; interpret cautiously because UCI lacks real POI metadata.

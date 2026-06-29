@@ -1,0 +1,4 @@
+RQ7 Finding,Evidence,Thesis-safe Interpretation
+Forecast-guided policies improve service compared with reactive operation,Best service method: Full Cross-Modal Fusion forecast-guided; service gain vs reactive is shown in Table 1.,"Forecasts provide operational decision-support value, but model choice and policy tuning affect the final operational outcome."
+Operational benefits are scenario-dependent,Scenario-level improvements and trade-offs are reported in Table 2.,Forecast-guided rebalancing should be tuned by demand regime instead of assuming uniform gains.
+Cost-service trade-off must be considered,The service-cost frontier in Table 3 and Figure 1 shows the effect of rebalancing strength.,"Higher operational service may require more rebalancing effort, so decision support should balance service quality and cost."

@@ -1,0 +1,7 @@
+Target Group,Source Samples Used,Small Target Samples Used,Target Test Samples Used,Zero-Shot RMSE,Fine-Tuned RMSE,Fine-Tuning Gain (%),Best Adaptation Strategy,Thesis Interpretation
+CBD,4500,294,737,200.83767092846838,160.94034620114698,19.865458777070184,Fine-tuned,Fine-tuning improves transfer
+Mixed-use,4500,1770,1500,48.93477766621279,44.56176779981767,8.93640489415182,Fine-tuned,Fine-tuning improves transfer
+Residential,4500,394,987,160.64127493185256,139.42232099971625,13.2089053333309,Fine-tuned,Fine-tuning improves transfer
+Tourist,4500,248,620,90.974695960714,88.5507752065542,2.664390057626445,Fine-tuned,Fine-tuning improves transfer
+Transit Hub,4500,143,359,44.21313799583794,43.443486094372616,1.7407764667605539,Fine-tuned,Fine-tuning improves transfer
+University,4500,590,1477,115.9217686177136,74.65188046497884,35.60149973943068,Fine-tuned,Fine-tuning improves transfer

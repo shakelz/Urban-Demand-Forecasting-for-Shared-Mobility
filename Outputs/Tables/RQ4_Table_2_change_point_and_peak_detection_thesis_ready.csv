@@ -1,0 +1,5 @@
+Model,Change-Point Precision,Change-Point Recall,Change-Point F1,Peak Recall,Extreme Spike MAE,Best Change-Point F1,Best Peak Recall,Best Extreme Spike MAE,Thesis-safe interpretation
+Weather + Calendar,0.6911196911170228,0.6911196911170228,0.6911196906170227,0.8346153846121745,102.12999834938664,Yes,Yes,Yes,Change-point and peak metrics are similar across models; emphasize contextual robustness rather than universal dominance.
+Temporal + Weather,0.6911196911170228,0.6911196911170228,0.6911196906170227,0.8307692307660355,102.33220984297446,Yes,No,No,Change-point and peak metrics are similar across models; emphasize contextual robustness rather than universal dominance.
+Full Cross-Modal Fusion,0.6911196911170228,0.6911196911170228,0.6911196906170227,0.8269230769198965,103.6909831414143,Yes,No,No,Change-point and peak metrics are similar across models; emphasize contextual robustness rather than universal dominance.
+Temporal Only,0.6911196911170228,0.6911196911170228,0.6911196906170227,0.8346153846121745,107.29804086611055,Yes,Yes,No,Change-point and peak metrics are similar across models; emphasize contextual robustness rather than universal dominance.

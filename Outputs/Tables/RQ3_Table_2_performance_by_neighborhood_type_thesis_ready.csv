@@ -1,0 +1,19 @@
+Neighborhood Type,Model,Test Samples,RMSE,MAE,WAPE (%),Peak-MAE,RMSE Reduction from Neighborhood (%),RMSE Reduction from Full Fusion (%),Best Model by RMSE
+CBD,Temporal Only,213,104.247,77.3708,17.5205,159.299,-0.2866,1.4713,Full Cross-Modal Fusion
+CBD,Temporal + Neighborhood,213,104.5458,78.0145,17.6663,163.2428,-0.2866,1.4713,Full Cross-Modal Fusion
+CBD,Full Cross-Modal Fusion,213,102.7132,77.3029,17.5051,159.7034,-0.2866,1.4713,Full Cross-Modal Fusion
+Mixed-use,Temporal Only,1507,37.5084,22.6969,14.8214,59.8996,0.4293,1.8226,Full Cross-Modal Fusion
+Mixed-use,Temporal + Neighborhood,1507,37.3473,22.4298,14.647,60.764,0.4293,1.8226,Full Cross-Modal Fusion
+Mixed-use,Full Cross-Modal Fusion,1507,36.8247,22.183,14.4858,59.3857,0.4293,1.8226,Full Cross-Modal Fusion
+Residential,Temporal Only,290,106.6628,76.8125,15.0735,206.3019,1.2129,5.6504,Full Cross-Modal Fusion
+Residential,Temporal + Neighborhood,290,105.3691,76.1775,14.9489,204.7518,1.2129,5.6504,Full Cross-Modal Fusion
+Residential,Full Cross-Modal Fusion,290,100.6359,72.7365,14.2736,178.7709,1.2129,5.6504,Full Cross-Modal Fusion
+Tourist,Temporal Only,33,74.7922,61.2391,10.4699,127.1718,0.3087,7.6834,Full Cross-Modal Fusion
+Tourist,Temporal + Neighborhood,33,74.5614,60.9598,10.4221,120.016,0.3087,7.6834,Full Cross-Modal Fusion
+Tourist,Full Cross-Modal Fusion,33,69.0456,53.8172,9.2009,115.362,0.3087,7.6834,Full Cross-Modal Fusion
+Transit Hub,Temporal Only,110,45.5129,25.9264,27.2103,61.058,3.5891,16.3815,Full Cross-Modal Fusion
+Transit Hub,Temporal + Neighborhood,110,43.8794,24.2362,25.4364,62.7905,3.5891,16.3815,Full Cross-Modal Fusion
+Transit Hub,Full Cross-Modal Fusion,110,38.0572,21.5413,22.6079,49.5698,3.5891,16.3815,Full Cross-Modal Fusion
+University,Temporal Only,429,46.8289,32.8861,13.6598,40.8552,3.9088,4.9332,Full Cross-Modal Fusion
+University,Temporal + Neighborhood,429,44.9985,31.9301,13.2627,43.0908,3.9088,4.9332,Full Cross-Modal Fusion
+University,Full Cross-Modal Fusion,429,44.5188,31.5821,13.1182,43.3057,3.9088,4.9332,Full Cross-Modal Fusion

@@ -1,0 +1,6 @@
+Counterfactual Scenario,Baseline Mean Forecast,Counterfactual Mean Forecast,Delta Demand,Delta Demand (%),Thesis Interpretation
+Switch working day to holiday,281.4503545553816,279.39154813011316,-2.058806425268415,-0.7314989631167739,Calendar disruption has limited average effect in this test sample but remains useful for regime-specific interpretation.
+Add adverse weather,281.4503545553816,261.85365962283083,-19.596694932550747,-6.962753684726675,"Adverse weather reduces predicted demand, indicating operational sensitivity to weather shocks."
+Increase temperature,281.4503545553816,283.5415896741203,2.091235118738723,0.7430209572963236,"Higher temperature increases predicted demand in the observed range, consistent with outdoor mobility behavior."
+High transit-access neighborhood,281.4503545553816,279.79225627118905,-1.6580982841925334,-0.5891263796082284,"Transit-access proxy slightly changes demand, suggesting modest spatial-context sensitivity."
+Tourist-oriented neighborhood context,281.4503545553816,279.84203919555745,-1.6083153598241324,-0.571438384705231,Tourism proxy has a small average effect in UCI; real POI data may produce stronger spatial explanations.

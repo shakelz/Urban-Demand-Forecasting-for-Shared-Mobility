@@ -1,0 +1,4 @@
+Analysis,Main Metric,Finding,Thesis-safe Interpretation
+Cross-season transfer,RMSE,Same-season average RMSE = 27.33; cross-season average RMSE = 58.74,"Transfer across seasons is harder than within-season forecasting, indicating temporal-domain shift."
+Held-out neighborhood transfer,Transfer Gain (%),Mean proposed gain = -1.43%,"Cross-modal context can improve transfer for some proxy neighborhood groups, but gains are group-dependent."
+Small-sample fine-tuning,Fine-Tuning Gain (%),Mean fine-tuning gain = 13.67%,Adding a small amount of target-domain data can reduce transfer loss for selected groups.
