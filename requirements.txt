@@ -1,3 +1,13 @@
-jupyter
-matplotlib
+numpy
 pandas
+scikit-learn
+matplotlib
+scipy
+shap
+joblib
+xgboost
+lightgbm
+jupyter
+notebook
+tqdm
+openpyxl
